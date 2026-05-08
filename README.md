@@ -1,16 +1,23 @@
-## Hi there 👋
+Andrii Ihnatiuk — Senior Full-Stack Contractor
+I build multi-tenant B2B SaaS for seed and Series A founders — the messy middle between "no users yet" and "needs a platform team." Direct engagements with founders and CTOs, no agency in between. Based in Ukraine, working remote across EU, US, and UK time zones.
 
-<!--
-**IhnatiukAndriii/IhnatiukAndriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Production-grade tests, security-aware data modeling, async written communication preferred.
 
-Here are some ideas to get you started:
+Currently
+Senior contractor at a German B2B SaaS company building an influencer marketing CRM for the DACH market (client under NDA)
+PropRadar — sole technical lead on a Dubai PropTech comparison platform, direct engagement with the founder
+Larped — AI image generation and face-swap MVP with Stripe billing and an identity-aware generation pipeline
+Selected work
+AI Website Factory — single Next.js + Supabase codebase generating 50+ SEO-optimized sites for a US restoration services network. Admin-driven CSV imports launch a new site in under five minutes with zero redeployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack
+Frontend: Next.js (App Router), React, TypeScript, Tailwind, shadcn/ui
+Backend: Node.js, PostgreSQL, Supabase
+Payments: Stripe
+AI: OpenAI API, Anthropic SDK
+Testing: Vitest, Playwright
+Infra: Vercel
+Contact
+LinkedIn: andrii-ihnatiuk
+Email: ndrjignatuk@gmail.com
+Open to senior contract engagements — best contact via LinkedIn.

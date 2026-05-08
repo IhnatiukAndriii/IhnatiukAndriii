@@ -7,8 +7,8 @@ Production-grade tests, security-aware data modeling, async written communicatio
 ## Currently
 
 - Senior contractor at a German B2B SaaS company building an influencer marketing CRM for the DACH market (client under NDA)
-- [PropRadar](https://getpropradar.com) — sole technical lead on a Dubai PropTech comparison platform, direct engagement with the founder
-- [Larped](https://larped.com) — AI image generation and face-swap MVP with Stripe billing and an identity-aware generation pipeline
+- [PropRadar](https://pedja.vercel.app/) — sole technical lead on a Dubai PropTech comparison platform, direct engagement with the founder
+- [LarpGPT](https://larpgpt.com/) — AI image generation and face-swap MVP with Stripe billing and an identity-aware generation pipeline
 
 ## Selected work
 

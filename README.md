@@ -26,6 +26,6 @@ Production-grade tests, security-aware data modeling, async written communicatio
 ## Contact
 
 - LinkedIn: [andrii-ihnatiuk](https://linkedin.com/in/andrii-ihnatiuk)
-- Email: your.email@example.com
+- Email: ndrjignatuk@gmail.com
 
 Open to senior contract engagements — best contact via LinkedIn.

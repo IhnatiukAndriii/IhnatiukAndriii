@@ -1,4 +1,4 @@
-# Andrii Ihnatiuk — Senior Full-Stack Contractor
+# Andrii Ihnatiuk —Full-Stack Contractor
 
 I build multi-tenant B2B SaaS for seed and Series A founders — the messy middle between "no users yet" and "needs a platform team." Direct engagements with founders and CTOs, no agency in between. Based in Ukraine, working remote across EU, US, and UK time zones.
 
